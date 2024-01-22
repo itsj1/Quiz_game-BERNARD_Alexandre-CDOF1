@@ -1,0 +1,15 @@
+[
+    {
+      "question": "Quelle est la capitale de la France?",
+      "reponses_correctes": ["paris"]
+    },
+    {
+      "question": "Quel est le plus grand océan du monde?",
+      "reponses_correctes": ["pacifique"]
+    },
+    {
+      "question": "Combien de continents y a-t-il?",
+      "reponses_correctes": ["7", "sept"]
+    }
+  ]
+  
