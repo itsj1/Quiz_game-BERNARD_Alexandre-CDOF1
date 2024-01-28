@@ -6,9 +6,9 @@ Ce projet est un jeu-questionnaire simple écrit en Python. Les joueurs réponde
 ## Comment exécuter le projet
 Le projet fonctionne dans un environnement Python. Suivez les étapes ci-dessous pour lancer le Quiz Game :
 
-1. Assurez-vous d'avoir Python installé sur votre machine.
-2. Clonez ce dépôt sur votre machine locale.
+1. **Assurez-vous d'avoir Python installé sur votre machine.**
+   
+2. **Clonez ce dépôt sur votre machine locale.**
    ```bash
    git clone https://github.com/AlexandreBernard1/Quiz_game-BERNARD_Alexandre-CDOF1.git
    cd quiz-game
-   python quiz_game.py
